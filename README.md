@@ -7,11 +7,6 @@
   - [Github](#github)
   - [etc](#etc)
 - [Android](#android)
-  - [Article](#article)
-  - [Lecture](#lecture)
-  - [Tools](#tools)
-  - [Github](#github)
-  - [etc](#etc)
 - [Design](#design)
 
 
@@ -49,26 +44,7 @@
 
 
 ## Android
-  
-
-### Article
-[back to top](#readme)
-
-
-### Lecture
-[back to top](#readme)
-
-
-### Tools
-[back to top](#readme) 
-
-
-### Github
-[back to top](#readme) 
-
-
-### etc
-[back to top](#readme) 
+[back to top](#readme)  
 
 
 ## Design
