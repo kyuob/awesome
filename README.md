@@ -16,6 +16,7 @@
 [back to top](#readme)
 * [33 open source](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449) - 33 iOS open source libraries that will dominate 2017.
 * [39 swift UI](https://medium.mybridge.co/39-open-source-swift-ui-libraries-for-ios-app-development-da1f8dc61a0f) - 39 Open Source Swift UI Libraries For iOS App Development.
+* [Design Patterns](https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa47) - Collection for Design Patterns in Swift.
 
 
 ### Lecture
