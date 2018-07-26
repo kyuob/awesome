@@ -20,7 +20,6 @@
 
 ### Lecture
 [back to top](#readme)
-* [Bringing Machine Learning](https://academy.realm.io/posts/altconf-2017-meghan-kane-bringing-machine-learning-to-your-ios-apps) - Bringing Machine Learning to your iOS Apps.
 * [objc.io](https://www.objc.io) - publishes books on advanced techniques and practices for iOS and OS X development.
 
 
