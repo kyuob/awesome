@@ -49,6 +49,9 @@
 
 ### Github
 * [dshb](https://github.com/beltex/dshb) - A macOS system monitor in Swift.
+* [Pods Updater](https://github.com/kizitonwose/PodsUpdater)
+* [GitUp](https://github.com/git-up/GitUp)
+
 
 ### etc
 
