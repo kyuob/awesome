@@ -48,6 +48,7 @@
 
 
 ### Github
+* [Awesome macOS open source applications](https://github.com/serhii-londar/open-source-mac-os-apps) - Awesome macOS open source applications.
 * [dshb](https://github.com/beltex/dshb) - A macOS system monitor in Swift.
 * [Pods Updater](https://github.com/kizitonwose/PodsUpdater)
 * [GitUp](https://github.com/git-up/GitUp)
