@@ -80,13 +80,27 @@
 ## Design
 [back to top](#readme)
 
-### Article
+### Reference 
+* [PTTRNS](https://www.pttrns.com) - Mobile Design Patterns.
+* [Mobile Patterns](http://www.mobile-patterns.com/recently-added) - A library of iOS and Android screenshots for designers and developers to reference.
+* [UX Archive](http://uxarchive.com)
+* [Dribbble](https://dribbble.com)
+* [Androidniceties](http://androidniceties.tumblr.com) - Beautiful, well-built Android apps. Inspiration and insight into Android UI conventions.
+* [Uplabs](https://www.uplabs.com) - UPLABS Daily Showcase
 
 
-### Lecture
+
+### Resources
+* [FlatIcon](https://www.flaticon.com) - Free Vector Icons.
+* [Icons8](https://icons8.com) - Free Icons.
+
 
 
 ### Tools
+* [AppLaunchpad](https://theapplaunchpad.com) - Create beautiful customized screenshots for your App store & Google play pages.
+* [App Store Screenshot Generator](https://www.appstorescreenshot.com) - Create beautiful app screenshots for iOS and Android in minutes.
+* [Image Splitter](https://imagesplitter.net) - Resize, Convert, Split, Crop.
+
 
 
 ### Github
