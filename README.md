@@ -95,7 +95,6 @@
 
 ### Tools
 * [AppLaunchpad](https://theapplaunchpad.com) - Create beautiful customized screenshots for your App store & Google play pages.
-* [App Store Screenshot Generator](https://www.appstorescreenshot.com) - Create beautiful app screenshots for iOS and Android in minutes.
 * [Image Splitter](https://imagesplitter.net) - Resize, Convert, Split, Crop.
 
 
