@@ -78,7 +78,6 @@
 [back to top](#readme)
 
 ### Reference 
-* [PTTRNS](https://www.pttrns.com) - Mobile Design Patterns.
 * [Mobile Patterns](http://www.mobile-patterns.com/recently-added) - A library of iOS and Android screenshots for designers and developers to reference.
 * [Dribbble](https://dribbble.com)
 * [Androidniceties](http://androidniceties.tumblr.com) - Beautiful, well-built Android apps. Inspiration and insight into Android UI conventions.
